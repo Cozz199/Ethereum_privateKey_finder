@@ -1,5 +1,6 @@
 # -*- mode: python ; coding: utf-8 -*-
-
+finder privkey
+(0xED44e4F02904a28a7A28E05dF78BeE02626435D1)
 
 a = Analysis(
     ['finder.py'],
